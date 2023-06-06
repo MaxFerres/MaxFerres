@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaxFerres
+- 👋 Hi, I’m Max
 - 👀 I’m interested in Game Development and Game Design
 - 🌱 I’m currently learning Java
 
