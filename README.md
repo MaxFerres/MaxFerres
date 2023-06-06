@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max
-- 👀 I’m interested in Game Development, Game Design and coding in general
+- 👀 I’m interested in Game Development, Game Design and Coding in general
 - 🌱 I’m currently learning Java
 
 <!---
